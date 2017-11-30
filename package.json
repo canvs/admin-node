@@ -1,0 +1,19 @@
+{
+  "name": "admin-node",
+  "version": "1.0.0",
+  "description": "admin-node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canvs/admin-node.git"
+  },
+  "author": "zd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canvs/admin-node/issues"
+  },
+  "homepage": "https://github.com/canvs/admin-node#readme"
+}
